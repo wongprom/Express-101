@@ -1,3 +1,16 @@
+> my todolist before/after sitting...
+
+[x] Done with chapter 2. Getting started, add data to the server.
+
+[ ] what branch are you in? Create new branch or go to the right one.
+
+[ ] are the branch up to date, if not pull from master.
+
+[ ] Nice job Wongprom, keep it going!!
+
+
+
+
 # Getting Started
 - Code along a course from Lynda, [Express Essential Training](https://www.lynda.com/Node-js-tutorials/Express-Essential-Training/679637-2.html)
 
